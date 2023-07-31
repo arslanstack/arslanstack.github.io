@@ -201,9 +201,8 @@ textarea {
 }
 
 .btn--bg {
-  padding: 1.5rem 2rem;
+  padding: 1.5rem 8rem;
   font-size: 2rem;
-  
 }
 
 .btn--med {
@@ -585,7 +584,7 @@ textarea {
 
 @media only screen and (max-width: 37.5em) {
   .contact__btn {
-    width: 74%;
+    width: 75%;
   }
 }
 
